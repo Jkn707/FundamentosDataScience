@@ -4,6 +4,6 @@
 
 InstagramUsageJAMGJDMO.ipynb
 
-Juan Andrés Montoya - Julián David Mejía Otálvaro
+Juan Andrés Montoya Galeano - Julián David Mejía Otálvaro
 
 
